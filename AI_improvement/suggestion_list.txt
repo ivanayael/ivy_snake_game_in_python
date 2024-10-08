@@ -1,0 +1,49 @@
+1. Niveles de Dificultad
+
+    Aumentar la Velocidad: A medida que el jugador avanza, podrías aumentar la velocidad del juego.
+    Obstáculos: Introducir obstáculos en el campo de juego que el jugador deba evitar mientras controla la serpiente.
+
+2. Power-Ups
+
+    Aumentos de Puntuación: Ofrecer objetos especiales que den más puntos al ser recogidos.
+    Temporales: Power-ups que hagan que la serpiente crezca más rápido, que se mueva más lentamente o incluso que se vuelva invulnerable por un tiempo limitado.
+
+3. Colisiones
+
+    Colisiones con la Pared o con el Cuerpo: Si la serpiente se choca contra su propio cuerpo o con los bordes, el juego termina, y podrías mostrar un mensaje de "Game Over".
+
+4. Música y Sonido
+
+    Efectos de Sonido: Agregar sonidos al recoger objetos o cuando la serpiente muerde su propia cola.
+    Música de Fondo: Una melodía de fondo para hacer el juego más envolvente.
+
+5. Puntuaciones Altas
+
+    Sistema de Puntuaciones: Almacenar las puntuaciones más altas y mostrarlas en el menú principal.
+    Nombre del Jugador: Permitir que los jugadores guarden sus nombres junto a sus puntuaciones más altas.
+
+6. Estadísticas del Jugador
+
+    Mostrar estadísticas como el tiempo total jugado, la longitud máxima alcanzada de la serpiente, etc.
+
+7. Personalización Adicional
+
+    Permitir que el jugador personalice no solo el nombre y el color de la serpiente, sino también el fondo del juego o incluso los gráficos de la comida.
+
+8. Temas y Estilos de Juego
+
+    Introducir diferentes temas visuales para el juego (por ejemplo, un tema retro, un tema futurista, etc.) que se puedan seleccionar desde el menú principal.
+
+9. Modo Multijugador
+
+    Competencia Local: Permitir que dos jugadores controlen sus propias serpientes en la misma pantalla y compitan para ver quién puede sobrevivir más tiempo.
+
+10. Tutorial
+
+    Un tutorial interactivo que explique las mecánicas del juego para nuevos jugadores.
+
+Implementación de Ideas
+
+Puedes elegir una o varias de estas ideas y planificar cómo implementarlas en tu código actual. Algunas, como agregar efectos de sonido y música, son relativamente simples, mientras que otras, como el modo multijugador, pueden requerir más trabajo.
+
+Si necesitas ayuda con alguna de estas características o tienes alguna idea en mente que te gustaría explorar, ¡házmelo saber!
